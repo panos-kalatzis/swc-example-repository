@@ -1,4 +1,5 @@
 # Guacamole recipe
 
 - Avocados
+- Salt
 
