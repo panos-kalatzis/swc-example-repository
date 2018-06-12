@@ -5,4 +5,5 @@
 - Onions
 - Lemon juice
 - Pepper
+- Garlic
 
