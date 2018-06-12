@@ -3,4 +3,6 @@
 - Avocados
 - Salt
 - Onions
-- sth
+- Lemon juice
+- Pepper
+
